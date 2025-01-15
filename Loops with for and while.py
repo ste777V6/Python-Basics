@@ -5,3 +5,12 @@ else:
   print("Finally finished!")
 
 #If the loop breaks, the else block is not executed.
+
+
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
+
