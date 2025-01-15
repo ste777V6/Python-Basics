@@ -41,3 +41,6 @@ d= { 	1: "East",
         4: "South"
    }
 print (d)
+
+#Check the data type 
+print (type(d))
